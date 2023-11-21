@@ -1,5 +1,6 @@
-## [**Do not share with out source link, please.**](https://github.com/jjongsangg/DigiPetSimulator/edit/master/README.md) [**출처 표시 없이 공유하지 말아주십세요.**](https://github.com/jjongsangg/DigiPetSimulator/edit/master/README.md)
 # DigiPetSimulator v0.0.1
+
+## [**Do not share with out source link, please.**](https://github.com/jjongsangg/DigiPetSimulator/edit/master/README.md) [**출처 표시 없이 공유하지 말아주십세요.**](https://github.com/jjongsangg/DigiPetSimulator/edit/master/README.md)
 
 # This app is running on just Windows now. 현재는 Windwos에서만 지원합니다.
 ## but this app gonna
