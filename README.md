@@ -1,4 +1,4 @@
-# [**Do not share with source link, please.**](https://github.com/jjongsangg/DigiPetSimulator/edit/master/README.md)
+# [**Do not share with out source link, please.**](https://github.com/jjongsangg/DigiPetSimulator/edit/master/README.md)
 # DigiPetSimulator v0.0.1
 DigiPetSimulator
 
