@@ -7,3 +7,5 @@
 developing to MacOS version too. 추후 맥 버전도 개발할 예정입니다.
 
 ## And DigiPetSimulatorCharactorEditor is Comming soon,, maybe... 아마 캐릭터 에디터도 만들어서 배포하지 않을까 십습니다... 머지 않은 미래에...
+
+Contact me : jjongsangg@gmail.com
