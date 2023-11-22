@@ -1,5 +1,6 @@
 # DigiPetSimulator v0.0.1
-
+[ENG](#ENG) [KOR](#KOR)
+#ENG
 ## [**Do not share with out source link, please.**](https://github.com/jjongsangg/DigiPetSimulator/edit/master/README.md)
 ## This app is running on just Windows now. 
 ## but this app gonna
@@ -7,8 +8,9 @@
 
 ## And DigiPetSimulatorCharactorEditor is Comming soon,, maybe... 
 
----
 
+#KOR
+[LANG-KOR]
 ## [**출처 표시 없이 공유하지 말아주십세요.**](https://github.com/jjongsangg/DigiPetSimulator/edit/master/README.md)
 ## 현재는 Windwos에서만 지원합니다.
 ### 추후 맥 버전도 개발할 예정입니다.
